@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @FERNANDOCOLENDEVJR
+- 🇧🇷 I'm actually 16 yo brazilian.
 - 👀 I’m interested in games, animes and coding S2
 - 🌱 I’m currently learning Dart (flutter)
 - 💞️ I’m looking to study a lot, and afterwards, look for a job :)
